@@ -21,6 +21,3 @@ I enjoy learning new technologies and improving my development skills through pe
 * Learning front-end best practices
 * Building personal projects to gain more experience
 
-## 📫 Contact
-
-* GitHub: https://github.com/YgorCards
