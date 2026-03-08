@@ -2,8 +2,8 @@
 
 Front-End Developer
 
-Hi! I'm Gabriel, a beginner Front-End Developer passionate about building clean and functional web interfaces.
-I enjoy learning new technologies and improving my development skills through personal projects.
+Hi! I'm Gabriel, a Beginner Front-End Developer focused on building clean and functional web interfaces.
+I enjoy learning new technologies and improving my development skills through projects.
 
 ## 🚀 Technologies
 
